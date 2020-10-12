@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopWithMe</string>
+    <string name="item_name">item_name</string>
+    <string name="rate">$rate</string>
+</resources>
